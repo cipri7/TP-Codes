@@ -1,5 +1,6 @@
 //SUDOKU SOLVER
 //4x4 board
+//Cipri7
 #include<stdio.h>
 #include<stdlib.h>
 #define N 4
